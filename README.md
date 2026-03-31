@@ -2,7 +2,7 @@
 
 Java programming assessment demonstrating object-oriented programming concepts including inheritance, polymorphism, and encapsulation.
 
-## 📝 Description
+## Description
 
 This repository contains solutions to CAT-1 Section B programming exercises, implementing a vehicle management system with:
 
@@ -21,7 +21,7 @@ CAT-1--Section-B/
 └── StudentRecord.java # Student data management
 ```
 
-## 🚀 Running the Code
+## Running the Code
 
 ### Prerequisites
 - Java Development Kit (JDK) 8 or higher
@@ -39,7 +39,7 @@ java Showroom
 java StudentRecord
 ```
 
-## 📋 Features
+## Features
 
 ### Vehicle Management System
 - **Inheritance**: `Car` extends `Vehicle` base class
@@ -68,7 +68,7 @@ Year: 2024
 Fuel Type: Hybrid
 ```
 
-## 🎓 Concepts Demonstrated
+## Concepts Demonstrated
 
 1. **Object-Oriented Programming**
    - Class inheritance
@@ -84,7 +84,7 @@ Fuel Type: Hybrid
    - Multi-type input handling
    - Resource cleanup (`sc.close()`)
 
-## 📚 Learning Objectives
+## Learning Objectives
 
 - Understand inheritance and `extends` keyword
 - Implement method overriding with `@Override`
@@ -99,11 +99,11 @@ Fuel Type: Hybrid
 - Input validation and error handling
 - Resource management
 
-## 📄 License
+## License
 
 Educational project - MIT License
 
-## 👤 Author
+## Author
 
 Fredrick Mbithi
 
